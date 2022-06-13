@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Semana 17 Kotlin</string>
+    <string name="tema">ACTIVITY 1</string>
+    <string name="tema2">ACTIVITY 2</string>
+    <string name="btFun1">Accion de funcion</string>
+</resources>
